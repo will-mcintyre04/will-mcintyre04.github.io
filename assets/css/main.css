@@ -1343,7 +1343,7 @@ input, select, textarea {
 					/* The typing effect */
 					@keyframes typing {
 					from { width: 0 }
-					to { width: 35% }
+					to { width: 19.5rem }
 					}
 					
 					/* The typewriter cursor effect */

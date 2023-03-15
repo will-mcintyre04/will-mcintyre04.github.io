@@ -1082,6 +1082,13 @@ input, select, textarea {
 			color: #1b1f22 !important;
 			font-weight: 600;
 		}
+		
+		/* Change background colour when hovered over */
+		input[type="button"].primary.icon:hover,
+		.button.primary:hover{
+			background-color: #8ca9c0;
+		}
+	
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
 		input[type="reset"].disabled,

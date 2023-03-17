@@ -13,9 +13,8 @@
   <p align="center">
     Portfolio website showcasing my skills as an engineering student.
     <br />
-    <a href="https://will-mcintyre04.github.io/">View Website</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://will-mcintyre04.github.io/">View Website</a>
     ·
   </p>
 </div>
@@ -102,5 +101,5 @@ Project Link: [https://github.com/will-mcintyre04/will-mcintyre04.github.io](htt
 		DImension by HTML5 UP, used under the CCA 3.0 License (html5up.net/license)
 
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://www.linkedin.com/in/will-mcintyre-b05b8b1ab/

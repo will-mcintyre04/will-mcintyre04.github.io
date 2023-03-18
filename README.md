@@ -49,16 +49,12 @@ All the while, it allows me to continue to grow my skills in web development as 
 
 ### Built With
 
-* CSS
-* HTML
-* SCSS
-* Javascript
-* VSC
-* GIT
-
-## Other Sources
-* Unsplash (unsplash.com)
-* Font Awesome (fontawesome.io)
+* <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> CSS
+* <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/> HTML
+* <img alt="SCSS" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/919/919831.png"/> SCSS
+* <img alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/> Javascript
+* <img alt="vsc" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VSC
+* <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> git
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -92,6 +88,7 @@ Project Link: [https://github.com/will-mcintyre04/will-mcintyre04.github.io](htt
 
 	Icons:
 		Font Awesome (fontawesome.io)
+		Flaticon (flaticon.com)
 
 	Other:
 		jQuery (jquery.com)

@@ -89,6 +89,7 @@ Project Link: [https://github.com/will-mcintyre04/will-mcintyre04.github.io](htt
 	Icons:
 		Font Awesome (fontawesome.io)
 		Flaticon (flaticon.com)
+		Favicon.io (favicon.io)
 
 	Other:
 		jQuery (jquery.com)

@@ -1086,6 +1086,8 @@ input, select, textarea {
 		/* Change background colour when hovered over */
 		input[type="button"].primary.icon:hover,
 		.button.primary:hover{
+			box-shadow: inset 0 0 0 1px #8ca9c0;
+			border-color: #8ca9c0;
 			background-color: #8ca9c0;
 		}
 	

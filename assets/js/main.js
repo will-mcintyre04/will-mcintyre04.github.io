@@ -1,6 +1,6 @@
 /*
-	Dimension by HTML5 UP
-	html5up.net | @ajlkn
+	Javascript main
+	Thank you to HTML5up for the template
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
@@ -14,30 +14,27 @@ showSlides(slideshow2.currentSlideIndex, slideshow2);
 
 
 function plusSlides(n, slideshow) {
-  showSlides(slideshow.currentSlideIndex += n, slideshow);
+	showSlides(slideshow.currentSlideIndex += n, slideshow);
 }
 
 function currentSlide(n, slideshow) {
-  showSlides(slideshow.currentSlideIndex = n, slideshow);
+  	showSlides(slideshow.currentSlideIndex = n, slideshow);
 }
 
 function showSlides(n, slideshow) {
-  
-
-
-  var i;
-  var slides = slideshow.getElementsByClassName("mySlides");
-  var dots = slideshow.getElementsByClassName("dot");
-  if (n > slides.length) {slideshow.currentSlideIndex = 1}    
-  if (n < 1) {slideshow.currentSlideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
-  }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideshow.currentSlideIndex-1].style.display = "block";  
-  dots[slideshow.currentSlideIndex-1].className += " active";
+ 	var i;
+  	var slides = slideshow.getElementsByClassName("mySlides");
+  	var dots = slideshow.getElementsByClassName("dot");
+  	if (n > slides.length) {slideshow.currentSlideIndex = 1}    
+  	if (n < 1) {slideshow.currentSlideIndex = slides.length}
+  	for (i = 0; i < slides.length; i++) {
+      	slides[i].style.display = "none";  
+  	}
+  	for (i = 0; i < dots.length; i++) {
+      	dots[i].className = dots[i].className.replace(" active", "");
+  	}
+  	slides[slideshow.currentSlideIndex-1].style.display = "block";  
+  	dots[slideshow.currentSlideIndex-1].className += " active";
 }
 
 (function($) {

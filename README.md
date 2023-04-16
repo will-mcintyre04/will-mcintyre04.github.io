@@ -46,8 +46,8 @@ This project is a platform to learn more about me as an engineering student, sho
 All the while, it allows me to continue to grow my skills in web development as I push my abilities.
 
 
-
-### Built With
+<!-- TOOLS USED -->
+### Built With:
 
 * <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> CSS
 * <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/> HTML

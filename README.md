@@ -1,15 +1,10 @@
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <h3 align="center">Will McIntyre's Portfolio Website</h3>
-
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/78566536/232262262-f1ae22a9-6fcc-47ed-a0ae-cf026908b11d.png" width=800></img>
+  </div>
   <p align="center">
     Portfolio website showcasing my skills as an engineering student.
     <br />

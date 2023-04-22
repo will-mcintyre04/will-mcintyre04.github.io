@@ -81,7 +81,7 @@ Project Link: [https://github.com/will-mcintyre04/will-mcintyre04.github.io](htt
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 		
 	Website Template:
-		DImension by HTML5 UP, used under the CCA 3.0 License (html5up.net/license)
+		Dimension by HTML5 UP, used under the CCA 3.0 License (html5up.net/license)
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue

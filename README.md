@@ -1,5 +1,4 @@
 <!-- PROJECT SHIELDS -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <h3 align="center">Will McIntyre's Portfolio Website</h3>
   <div align="center">

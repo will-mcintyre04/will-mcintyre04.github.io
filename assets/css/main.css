@@ -183,6 +183,7 @@ input, select, textarea {
 	}	
 		h3.work{
 			text-align: center;
+			font-size: 1.25rem;
 		}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -287,7 +288,7 @@ input, select, textarea {
 	hr {
 		border: 0;
 		border-bottom: solid 1px #ffffff;
-		margin: 2.75rem 0;
+		margin: 2rem 0;
 	}
 
 	.align-left {
@@ -1095,7 +1096,7 @@ input, select, textarea {
 
 		.button.nav{
 			padding: 0 1rem 0 1rem;
-			margin: -3rem 0 2rem 0;
+			margin: -3rem 0 0rem 0;
 			font-size: 0.7rem;
 			height: 2.2rem;
 			letter-spacing: 0.2rem;

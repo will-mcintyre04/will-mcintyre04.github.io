@@ -180,7 +180,10 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 		text-transform: uppercase;
 		letter-spacing: 0.2rem;
-	}
+	}	
+		h3.work{
+			text-align: center;
+		}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
@@ -1089,7 +1092,15 @@ input, select, textarea {
 			border-color: #8ca9c0;
 			background-color: #8ca9c0;
 		}
-	
+
+		.button.nav{
+			padding: 0 1rem 0 1rem;
+			margin: -3rem 0 2rem 0;
+			font-size: 0.7rem;
+			height: 2.2rem;
+			letter-spacing: 0.2rem;
+			line-height: 2.2rem;
+		}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
 		input[type="reset"].disabled,

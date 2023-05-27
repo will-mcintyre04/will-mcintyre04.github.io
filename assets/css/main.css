@@ -1000,30 +1000,6 @@ input, select, textarea {
 
 /* Button */
 
-
-#myBtn {
-	display: none;
-	position: fixed;
-	bottom: 20px;
-	right: 30px;
-	z-index: 99;
-	font-size: 18px;
-	border: none;
-	outline: none;
-	background-color: blue;
-	color: white;
-	cursor: pointer;
-	border-radius: 4px;
-  }
-
-  #myBtn .test{
-	background-color: red;
-  }
-  
-  #myBtn:hover {
-	background-color: #555;
-  }
-
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],

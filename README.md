@@ -86,3 +86,5 @@ Project Link: [https://github.com/will-mcintyre04/will-mcintyre04.github.io](htt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://www.linkedin.com/in/will-mcintyre-b05b8b1ab/
+
+<!-- ACKNOWLEDGMENTS -->

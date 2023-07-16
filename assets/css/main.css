@@ -176,7 +176,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: 600;
-		line-height: 0.5;
+		line-height: 1rem;
 		margin: 0 0 2rem 0;
 		text-transform: uppercase;
 		letter-spacing: 0.2rem;

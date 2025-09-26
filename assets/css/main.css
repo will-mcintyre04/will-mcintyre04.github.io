@@ -1445,6 +1445,30 @@ input, select, textarea {
   #contact a{
 	text-decoration: underline;
   }
+
+  .skills-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+  margin-bottom: 1rem;
+}
+
+.badge {
+  background: #222;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 5px 12px;
+  font-size: 0.9em;
+  transition: background 0.2s;
+  cursor:default;
+}
+
+.badge:hover {
+  background: #00aced;
+  color: white;
+}
+
   
   @-webkit-keyframes fade {
 	from {opacity: .4} 

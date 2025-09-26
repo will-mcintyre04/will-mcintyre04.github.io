@@ -170,7 +170,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2rem 0;
+		margin: 0 0 1rem 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -184,6 +184,7 @@ input, select, textarea {
 		h3.work{
 			text-align: center;
 			font-size: 1.25rem;
+			margin: 1.5rem 0;
 		}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -198,7 +199,7 @@ input, select, textarea {
 			width: -ms-max-content;
 			width: max-content;
 			padding-bottom: 0.4rem;
-			margin: 0 0 2rem 0;
+			margin: 0 0 1rem 0;
 		}
 
 	h1 {
@@ -422,7 +423,7 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			margin: 2.5rem 0;
+			margin: 0.5rem 0;
 			max-width: 100%;
 		}
 
@@ -1421,7 +1422,7 @@ input, select, textarea {
 	cursor:pointer;
 	height: 13px;
 	width: 13px;
-	margin: 0 2px;
+	margin: 0 1px;
 	background-color: #bbb;
 	border-radius: 50%;
 	display: inline-block;
